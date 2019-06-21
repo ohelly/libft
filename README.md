@@ -7,6 +7,12 @@ For more details regarding the project see subject.en.pdf.
 # Compiling
 You may compile `libft.a` by running `make`
 
+# Usage
+Include it in your C project:
+```sh
+#include "libft.h"
+...
+
 # Contents
 
 # Libc function
