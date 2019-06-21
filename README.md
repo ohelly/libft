@@ -5,7 +5,7 @@ A 42 (school) project that required us to create our own library containing our 
 For more details regarding the project see subject.en.pdf.
 
 # Compiling
-You may compile '''sh libft.a ...
+You may compile 'libft.a'
 
 # Contents
 
