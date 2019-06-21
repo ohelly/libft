@@ -11,7 +11,7 @@ You may compile `libft.a` by running `make`
 Include it in your C project:
 ```sh
 #include "libft.h"
-...
+```
 
 # Contents
 
