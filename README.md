@@ -9,10 +9,9 @@ You may compile `libft.a` by running `make`
 
 # Usage
 Include it in your C project:
-```sh
+```с
 #include "libft.h"
 ```
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
 
 # Contents
 
