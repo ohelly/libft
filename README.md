@@ -6,4 +6,4 @@ For more details regarding the project see subject.en.pdf.
 
 # Contents
 
-> ft_memset
+- ft_memset
