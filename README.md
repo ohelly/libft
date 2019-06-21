@@ -9,8 +9,7 @@ You may compile `libft.a` by running `make`
 
 ## Usage
 Include it in your C project:
-
-```с
+```c
 #include "libft.h"
 ```
 
