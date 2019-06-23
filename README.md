@@ -2,7 +2,7 @@
 
 A 42 (school) project that required us to create our own library containing our implementation of some existing Standard C Library functions as well as some extra ones.
 
-For more details regarding the project see subject.en.pdf.
+**For more details regarding the project see [subject.en.pdf](https://github.com/ohelly/libft/blob/master/subject.en.pdf).**
 
 ## Compiling
 You may compile `libft.a` by running `make`
